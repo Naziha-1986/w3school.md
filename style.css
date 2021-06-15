@@ -1,7 +1,6 @@
 header{
   background-color: red;
   
-
 }
 
 header div{
@@ -43,7 +42,17 @@ padding: 5%;
 }
 #second{
  display: inline-block;
-float: left;
- margin-right: 50%;
-padding: 1%;
+ margin-right: 1%;
+ background-color: whitesmoke;
+  padding: 3%;
+ 
+}
+#third{
+  display: inline-block;
+ margin-left: 1%;
+ background-color:gainsboro;
+  padding: 3%;
+}
+.title{
+  text-align: center;
 }
