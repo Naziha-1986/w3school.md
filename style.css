@@ -42,6 +42,7 @@ padding: 5%;
 }
 #second{
  display: inline-block;
+<<<<<<< HEAD
  margin-right: 1%;
  background-color: whitesmoke;
   padding: 3%;
@@ -56,3 +57,9 @@ padding: 5%;
 .title{
   text-align: center;
 }
+=======
+ float:right;
+ margin-right: 5%;
+ padding: 1%;
+}
+>>>>>>> 6ff4b8b27ae28c5342a463ac9d8e148f81c955da
