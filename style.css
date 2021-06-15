@@ -72,7 +72,11 @@ padding: 5%;
 #footer{
   text-align: center;
   background-color: whitesmoke;
+<<<<<<< HEAD
   color: rgb(136, 125, 125);
   text-decoration: none;
   padding:10% ;
+=======
+  color: black;
+>>>>>>> 82b2ca54451f62259f6cf97aebc5f1befa236a26
 }
