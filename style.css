@@ -79,8 +79,18 @@ header nav ul li a{
 #footer{
   text-align: center;
   background-color: whitesmoke;
+<<<<<<< HEAD
   text-decoration: none;
   padding:10% ;
   color: rgb(119, 112, 112);
 
+=======
+<<<<<<< HEAD
+  color: rgb(136, 125, 125);
+  text-decoration: none;
+  padding:10% ;
+=======
+  color: black;
+>>>>>>> 82b2ca54451f62259f6cf97aebc5f1befa236a26
+>>>>>>> 73d4439e05b132f6203147db84aee31b5bdfbec6
 }
